@@ -59,7 +59,20 @@ Me chamo Maria Eduarda, tenho 18 anos e moro em São Paulo (SP). Atualmente curs
 
 ### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maymari7&show_icons=true&theme=radical)
+<img
+   align="left"
+   height="200"
+   style="padding-right: 10px;"
+   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maymari7&theme=radical"/>
+
+<img
+   align="left"
+   height="200"
+   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maymari7&theme=radical"/>
+
+<br clear="both"/>
+<br/>
+
 
 - 🔭 Estou me aperfeiçoando em **Front-End**
 - 🌱 Atualmente estudo **Java** e **MySQL**
