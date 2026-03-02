@@ -65,4 +65,4 @@ Me chamo Maria Eduarda, tenho 18 anos e moro em São Paulo (SP). Atualmente curs
 - 🌱 Atualmente estudo **Java** e **MySQL**
 - 💻 Sempre buscando evoluir meus conhecimentos em programação
 - 📫 Como me encontrar: **mymari.eduarda@gmail.com**
-- 
+
