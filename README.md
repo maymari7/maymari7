@@ -2,7 +2,7 @@
 ✨ _Sobre mim_ ✨
 -->
 
-## 👩‍💻 Olá, eu sou a Maria Eduarda!
+## Maria Eduarda Magalhães da Costa
 
 **`Desenvolvedora Fullstack`**
 
