@@ -48,10 +48,18 @@ Me chamo Maria Eduarda, tenho 18 anos e moro em São Paulo (SP). Atualmente curs
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
   <img 
     align="left"
-    alt="Java"
-    title="Java"
+    alt="JS"
+    title="JS"
     width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+ />
+   <img 
+    align="left"
+    alt="PHP"
+    title="PHP"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+ />
 </p>
 
 <br/>
