@@ -6,7 +6,7 @@
 
 **`Desenvolvedora Fullstack`**
 
-Me chamo Maria Eduarda, tenho 18 anos e moro em São Paulo (SP). Atualmente curso Análise e Desenvolvimento de Sistemas na Uninove Campus Vergueiro. Estou me aperfeiçoando na área de Desenvolvimento Front-End e também estudo Java e MySQL, buscando evoluir tanto na criação de interfaces quanto na parte lógica e banco de dados. Sou apaixonada por tecnologia e estou sempre em constante aprendizado, desenvolvendo projetos para aprimorar minhas habilidades na programação.
+Me chamo Maria Eduarda, tenho 18 anos e moro em São Paulo (SP). Atualmente curso Análise e Desenvolvimento de Sistemas na Impacta. Estou me aperfeiçoando na área de Desenvolvimento Full Stack, buscando evoluir tanto na criação de interfaces quanto na parte lógica e banco de dados. Sou apaixonada por tecnologia e estou sempre em constante aprendizado, desenvolvendo projetos para aprimorar minhas habilidades na programação.
 
 <p align="left">
    <a href="mailto:mymari.eduarda@gmail.com">
@@ -58,6 +58,18 @@ Me chamo Maria Eduarda, tenho 18 anos e moro em São Paulo (SP). Atualmente curs
     title="PHP"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+   <img
+    align="left"
+    alt="PYTHON"
+    title="PYTHON"
+    width="30px"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img 
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </p>
 
 <br/>
