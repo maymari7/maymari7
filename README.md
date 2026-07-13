@@ -75,7 +75,8 @@ Me chamo Maria Eduarda, tenho 18 anos e moro em São Paulo (SP). Atualmente curs
     alt="SQLite"
     title="SQLite"
     width="30px" 
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 
 </p>
 
